@@ -1,2 +1,2 @@
-# Restore-corps-inventory-management-system
-this is the repository for the RC.INV site
+## Welcome to the official Restore Corps Inventory Management System
+this is the __repositery__ of the ***RC.IVN*** site
