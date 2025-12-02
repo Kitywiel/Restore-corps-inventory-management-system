@@ -1,4 +1,4 @@
-# this is the spreadsheet info file.
+# this is the spreadsheet info file. (DOCK TYPE READ ONLY)
 
 ## in this file the layout of the sheet will be explaned.
 
